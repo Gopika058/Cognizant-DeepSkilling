@@ -1,11 +1,0 @@
-Êþº¾   4   com/example/MyService  java/lang/Object api Lcom/example/ExternalApi; <init> (Lcom/example/ExternalApi;)V Code
-     ()V	     LineNumberTable LocalVariableTable this Lcom/example/MyService; 	fetchData    com/example/ExternalApi   getData ()Ljava/lang/String; 
-SourceFile MyService.java !                	   F     
-*· 
-*+µ 
-±              	         
-       
-        	   9     *´ 
-¹  W±       
-     
-                   

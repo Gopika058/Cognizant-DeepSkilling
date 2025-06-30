@@ -1,12 +1,0 @@
-Êþº¾   4 =  com/example/MyServiceTest  java/lang/Object <init> ()V Code
-  	   LineNumberTable LocalVariableTable this Lcom/example/MyServiceTest; testVerifyInteraction RuntimeVisibleAnnotations Lorg/junit/jupiter/api/Test;  com/example/ExternalApi
-    org/mockito/Mockito   mock %(Ljava/lang/Class;)Ljava/lang/Object;  com/example/MyService
-     (Lcom/example/ExternalApi;)V
-      	fetchData
-  " # $ verify &(Ljava/lang/Object;)Ljava/lang/Object;  & ' ( getData ()Ljava/lang/String;	 * , + java/lang/System - . out Ljava/io/PrintStream; 0 ,âœ… Method interaction verified successfully
- 2 4 3 java/io/PrintStream 5 6 println (Ljava/lang/String;)V mockApi Lcom/example/ExternalApi; service Lcom/example/MyService; 
-SourceFile MyServiceTest.java !               /     *· ±    
-                 
-                  ~     ,¸ À L» Y+· M,¶ +¸ !À ¹ % W² )/¶ 1±    
-        	      #  +          ,  
-   	 # 7 8    9 :   ;    <
